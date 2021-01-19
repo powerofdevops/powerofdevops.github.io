@@ -1,4 +1,4 @@
-## Power of DevOps Community 🚀
+# Power of DevOps Community 🚀
 
 Meetup-Gruppe von #AzureDevOps-Enthusiasten. Mission: agile DevOps-Praktiken erfolgreich umsetzen. Denn: We ♥ DevOps.
 

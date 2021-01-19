@@ -1,4 +1,5 @@
 # Jekyll configuration
 name: Power of DevOps Community
+url: https://web.powerofdevops.com
 markdown: GFM
 timezone: Europe/Berlin

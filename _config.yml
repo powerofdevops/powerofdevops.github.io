@@ -4,3 +4,7 @@ url: https://web.powerofdevops.com
 markdown: GFM
 timezone: Europe/Berlin
 title: null # to remove the header
+
+minima:
+  social_links:
+    github:  powerofdevops

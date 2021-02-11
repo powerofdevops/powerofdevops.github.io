@@ -7,4 +7,7 @@ title: null # to remove the header
 
 minima:
   social_links:
+    twitter: powerofdevops
     github:  powerofdevops
+
+theme: minima

@@ -27,3 +27,7 @@ Folge | Titel | Länge
 [Folge4]: https://www.youtube.com/watch?v=3wT6bqR7qRE&list=PLjYQiPd6tgccuenPyVCWD1hAuJrX4Zg5A&index=4
 [Folge5]: https://www.youtube.com/watch?v=LPw5QY09KN0&list=PLjYQiPd6tgccuenPyVCWD1hAuJrX4Zg5A&index=5
 [Folge6]: https://www.youtube.com/watch?v=X5_uJty_Tfo&list=PLjYQiPd6tgccuenPyVCWD1hAuJrX4Zg5A&index=6
+
+---
+
+Hosted with 💚 on [GitHub Pages](https://pages.github.com/)

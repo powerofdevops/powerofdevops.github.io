@@ -3,6 +3,7 @@ name: Power of DevOps Community
 url: https://web.powerofdevops.com
 markdown: GFM
 timezone: Europe/Berlin
+lang: de-DE
 title: null # to remove the header
 description: We are a community for Azure DevOps enthusiast
 

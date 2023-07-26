@@ -8,7 +8,7 @@ Mehr unter:                 | Link:
 ----------------------------|-----
 📅 Meetup-Gruppe            | [meetup.com/PowerOfDevOps/](https://www.meetup.com/PowerOfDevOps/)
 📺 Aufzeichnungen der Meetups    | [github.com/powerofdevops/meetups](https://github.com/powerofdevops/meetups)
-🐦 Folge uns auf Twitter    | [@powerofdevops](https://twitter.com/powerofdevops)
+🐦 Folge uns auf Twitter (nutzen wir kaum noch)    | [@powerofdevops](https://twitter.com/powerofdevops)
 
 ## Unsere Webinare zu Azure DevOps
 

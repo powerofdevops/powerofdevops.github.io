@@ -6,6 +6,6 @@ markdown: GFM
 timezone: Europe/Berlin
 lang: de-DE
 title: null # to remove the header
-description: We are a community for Azure DevOps enthusiast
+description: We are a community of German-speaking Azure DevOps enthusiasts
 
 theme: jekyll-theme-primer # default theme for GitHub Pages

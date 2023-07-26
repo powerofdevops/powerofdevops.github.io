@@ -30,4 +30,4 @@ Folge | Titel | Länge
 
 ---
 
-Hosted with 💚 on [GitHub Pages](https://pages.github.com/)
+Hosted with 💚 on [GitHub Pages](https://pages.github.com/) | [Code of Conduct](/code-of-conduct.md)

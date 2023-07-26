@@ -2,7 +2,7 @@
 
 ## General guidelines
 
-What we value:
+In our community,  we value:
 
 * Be respectful and inclusive
 * Respect differences of opinion

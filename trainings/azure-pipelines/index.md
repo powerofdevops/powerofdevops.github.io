@@ -21,7 +21,7 @@ Online (MS Teams)
 - Umgang mit Secrets im Build und Release
 - Deployment von Infrastruktur und Applikation (Infrastructure as Code)
 - Enterprise-Szenarien (Security, Checks & Approvals, Template Inheritance)
-- Auswahl, Orgsanisation Einrichtung von Build Agents (Self-hosted vs. VMSS vs. Hosted Agents)
+- Auswahl, Organisation Einrichtung von Build Agents (Self-hosted vs. VMSS vs. Hosted Agents)
 - Pull Request Deployment: autom. Deployment und Verifikation neuer Feature in eine isolierte (Test-)Umgebung
 - Exkurs: DB Schema Deployment
 - Tipps für professionelle Pipelines gemäss aktueller Industriestandards

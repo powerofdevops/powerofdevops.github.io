@@ -28,4 +28,4 @@ Online (MS Teams)
 
 ### Anmeldung
 
-[Zum Anmeldeformular]([url](https://trainings.powerofdevops.com/anmelden/2023-azpipelines/)https://trainings.powerofdevops.com/anmelden/2023-azpipelines/)
+👉 [Zum Anmeldeformular]([url](https://trainings.powerofdevops.com/anmelden/2023-azpipelines/)https://trainings.powerofdevops.com/anmelden/2023-azpipelines/)

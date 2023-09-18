@@ -6,9 +6,10 @@ Online (MS Teams)
 ### Dauer
 3 Tage
 
-### Daten
-- 06. - 07. November 2023
-- 14. November 2023
+### Zeitplan
+* Teil 1: 06. - 07. November 2023
+* Teil 2: 14. November 2023
+* Jeweils 09:00 bis 17:00 Uhr
 
 ### Trainer
 - Neno Loje
